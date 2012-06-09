@@ -1,0 +1,35 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  code: MyString
+  name: MyString
+  continent: MyString
+  region: MyString
+  surfacearea: 1.5
+  indepyear: 1
+  population: 1
+  lifeexpectancy: 1.5
+  gnp: 1.5
+  gnpold: 1.5
+  localname: MyString
+  governmentform: MyString
+  headofstate: MyString
+  capital: 1
+  code2: MyString
+
+two:
+  code: MyString
+  name: MyString
+  continent: MyString
+  region: MyString
+  surfacearea: 1.5
+  indepyear: 1
+  population: 1
+  lifeexpectancy: 1.5
+  gnp: 1.5
+  gnpold: 1.5
+  localname: MyString
+  governmentform: MyString
+  headofstate: MyString
+  capital: 1
+  code2: MyString

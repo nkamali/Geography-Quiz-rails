@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  countrycode: MyString
+  district: MyString
+  population: 1
+
+two:
+  name: MyString
+  countrycode: MyString
+  district: MyString
+  population: 1

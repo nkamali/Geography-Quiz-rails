@@ -1,0 +1,38 @@
+// Contains a list of quiz types. Each quiz type is associated with a sql query. 
+// This JSON file currently supports quiz questions for "Geography" related questions but in the future 
+// can be expanded to support additional subjects.
+// filename: quiz.json
+
+var Quiz = {
+"subjects":
+[
+	{
+		"name": "geography",
+		"quiz_types" :
+		[
+			{
+				"type": "Capital",
+				"question": "What is the capital of XXX?",
+				"url": "/cities/capital_city.xml"
+			},
+			{
+				"type": "Continent",
+				"question": "What continent contains XXX?",
+				"url": "/countries/continent.xml"
+			},
+			{
+				"type": "Language",
+				"question": "Name a language that they speak in XXX",
+				"url": "/languages/languages.xml"
+			},
+			{
+				"type": "Large Cities",
+				"question": "Name a city in XXX that has over 1,000,000 people",
+				"url": "cities/large_cities"
+			}
+    ]
+	}
+]
+}
+
+			
